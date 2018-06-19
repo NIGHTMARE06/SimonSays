@@ -9,3 +9,6 @@ This is a game in Javascript <3
 
 ## License
 MIT
+
+## How to play?
+You can play on [this website](https://nightmare06.github.io/SimonSays/)
