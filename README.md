@@ -11,4 +11,4 @@ This is a game in Javascript <3
 MIT
 
 ## How to play?
-You can play on [this website](https://alanstgo.github.io/SimonSays/)
+You can play on [this website](https://alan4dev.github.io/SimonSays/)
